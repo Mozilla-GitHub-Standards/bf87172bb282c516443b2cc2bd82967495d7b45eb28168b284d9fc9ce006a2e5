@@ -1,6 +1,7 @@
 src/commonware
 src/django
 src/django-sha2
+src/django-mozilla-product-details
 src/django-nose
 src/jingo
 src/jingo-minify
