@@ -28,3 +28,6 @@
 [submodule "src/django-mozilla-product-details"]
 	path = src/django-mozilla-product-details
 	url = git://github.com/fwenzel/django-mozilla-product-details
+[submodule "src/django-mobility"]
+	path = src/django-mobility
+	url = https://github.com/jbalogh/django-mobility
